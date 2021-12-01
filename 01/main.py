@@ -1,3 +1,5 @@
+#Only problem 1 for now!
+
 def solver(measurements):
     increase = 0
 
