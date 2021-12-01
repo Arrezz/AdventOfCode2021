@@ -9,3 +9,5 @@ The individual problems will be in directories labelled 01-25 corresponding to t
 :santa::santa::santa:
 
 inputs for the different days are found in the inputs folder
+
+Hope you all have a wonderful festive season!
