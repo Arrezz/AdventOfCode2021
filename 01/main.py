@@ -1,5 +1,3 @@
-# Only problem 1 for now!
-
 def solverProblem1(measurements):
     increase = 0
 
@@ -7,7 +5,7 @@ def solverProblem1(measurements):
         if measurements[i] > measurements[i - 1]:
             increase += 1
 
-    print(increase)
+    print("Problem 1 answer: " + increase)
 
 
 def solverProblem2(measurements):
@@ -18,7 +16,7 @@ def solverProblem2(measurements):
                 measurements[i - 1] + measurements[i] + measurements[i + 1]):
             increase += 1
 
-    print(increase)
+    print("Problem 2 answer: " + increase)
 
 
 if __name__ == '__main__':
