@@ -14,7 +14,7 @@ def solverproblem2(data):
 
 def main():
     """ Main entry point of the app """
-    with open("./inputs/day1.txt") as file:
+    with open("sample.txt") as file:
         data = [int(line.strip()) for line in file]
     solverproblem1(data)
     solverproblem2(data)
