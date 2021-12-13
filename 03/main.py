@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+__author__ = "Arvid Granroth"
+__license__ = "GNU GPLv3"
+
 def solverProblem1(measurements):
     bit_counter_one = 0
     bit_counter_zero = 0

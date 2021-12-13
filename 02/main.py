@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+__author__ = "Arvid Granroth"
+__license__ = "GNU GPLv3"
+
 def solverProblem1(measurements):
     horizontal = 0
     depth = 0
