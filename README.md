@@ -11,3 +11,11 @@ The individual problems will be in directories labelled 01-25 corresponding to t
 inputs for the different days are found in the inputs folder
 
 Hope you all have a wonderful festive season!
+
+
+AoC so far:
+
+Day 1 Part 1 :checkmark: Part 2 :checkmark:
+Day 2 Part 1 :checkmark: Part 2 :checkmark:
+Day 3 Part 1 :checkmark: Part 2 :x:
+Day 4 Part 1 :x: Part 2 :x:
